@@ -1,11 +1,21 @@
 {
-  "name": "Website Template",
-  "about_url": "https://www.bullhorngames.com/",
-  "license": "MIT",
-  "authors": "ZephyrSPT",
+  "name": "bullhorn-theme",
+  "about_url": "https://bullhorngames.com",
+  "license_url": "https://opensource.org/licenses/MIT",
   "theme_version": "1.0",
-  "minimum_discourse_version": "2.7.0",
-  "assets": [],
-  "stylesheets": [],
-  "component": false
+  "authors": [ZephyrSPT],
+  "component": false,
+  "modifications": {
+    "css": [
+      "CSS/gam-es.webflow.a9592d5f2.css"
+    ],
+    "html": {
+      "header": "HTML/header.html",
+      "body_tag": "HTML/body.html"
+    }
+  },
+  "assets": {
+    "font1": "FONTS/your-font-1.woff2",
+    "font2": "FONTS/your-font-2.woff2"
+  }
 }
