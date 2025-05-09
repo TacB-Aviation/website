@@ -2,7 +2,7 @@
   "name": "Website Template",
   "about_url": "https://www.bullhorngames.com/",
   "license": "MIT",
-  "authors": ZephyrSPT,
+  "authors": "ZephyrSPT",
   "theme_version": "1.0",
   "minimum_discourse_version": "2.7.0",
   "assets": [],
