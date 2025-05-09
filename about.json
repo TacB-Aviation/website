@@ -3,7 +3,7 @@
   "about_url": "https://bullhorngames.com",
   "license_url": "https://opensource.org/licenses/MIT",
   "theme_version": "1.0",
-  "authors": [ZephyrSPT],
+  "authors": "ZephyrSPT",
   "component": false,
   "modifications": {
     "css": [
@@ -15,7 +15,9 @@
     }
   },
   "assets": {
-    "font1": "FONTS/your-font-1.woff2",
-    "font2": "FONTS/your-font-2.woff2"
+    "font1": "FONTS/5eace587b5dab0e347aeb135_slate-std-bold.otf",
+    "font2": "FONTS/5eace5876af9c8f68ad61e76_slate-pro-book.otf",
+    "font3": "FONTS/5eace58785c94f0795a5a349_slate-pro-light-417.otf",
+    "font4": "FONTS/5eace58730994ed68e03e643_slate-std-medium.otf"
   }
 }
